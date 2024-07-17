@@ -1,4 +1,4 @@
-//complete this code// Animal class
+// Animal class
 class Animal {
   constructor(species) {
     this._species = species;
