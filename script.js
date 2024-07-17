@@ -1,7 +1,9 @@
 // Animal class
 class Animal {
-  constructor(species) {
+  constructor(species,Dog,cat) {
     this._species = species;
+	  this.Dog = Dog;
+	  this.cat = cat;
   }
 
   // Getter for species
